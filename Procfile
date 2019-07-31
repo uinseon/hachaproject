@@ -1,1 +1,1 @@
-web: gunicorn hacha.wsgi --log-file -
+web: gunicorn hachaproject.wsgi --log-file -
